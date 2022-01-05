@@ -1,8 +1,0 @@
-Some contents
-What is going on?
-This is weird!
-Why is this not working?
-?????
-
-It's not working because a new "contents" variable was not set for this specific cell, so it was printing the contents that were read from
-the input.txt file one of the previous cells was reading and printing out! Ugh!
