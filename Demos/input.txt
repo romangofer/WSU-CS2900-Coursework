@@ -1,0 +1,6 @@
+Hello World!
+42
+This is a .txt file.
+Testing 123
+Hello
+Fun with Files
